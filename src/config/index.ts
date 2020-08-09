@@ -11,7 +11,7 @@ export default {
       nethash: '5e67037fd290ba7ab378e84a591d251c46eb9770eb134983771fd602233bf193',
       token: 'Qredit',
       symbol: 'XQR',
-      version: 0x17,
+      version: 0x3a,
       explorer: 'https://explorer.qredit.io/#',
       wif: 0xbb,
       p2pPort: 4101,
